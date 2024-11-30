@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Outlet } from "react-router-dom";
-import Drawer from "../components/AdminDrawer";
+import Drawer from "../components/Drawer";
 import Header from "../components/DashboardHeader";
 
 function AdminDashboardLayout() {
